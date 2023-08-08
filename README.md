@@ -21,21 +21,21 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 *Las fechas y temáticas de las ayudantías están sujetas a cambio a lo largo del semestre*
 | Número  | Tema | Fecha |
 | ------- | ---- | ----- |
-| Ayudantía 0 | Introducción, setup de Clingo y Syllabus     | 11/08/2023 |
+| Ayudantía 0 | Presentación y trabajo Tarea 1               | 11/08/2023 |
 | Ayudantía 1 | ASP y Clingo                                 | 18/08/2023 |
 | Ayudantía 2 | Negación y modelación en Clingo	             | 25/08/2023 |
-| Ayudantía 3 | Repaso Tarea 1                               | 1/09/2023 |
+| Ayudantía 3 | Repaso Tarea 2                               | 1/09/2023 |
 | Ayudantía 4 | Intro a la búsqueda (DFS, BFS, Dijkstra)     | 8/09/2023 |
-| Ayudantía 5 | A* y Heurísticas	                         | 15/09/2023 |
+| Ayudantía 5 | A* y Heurísticas	                           | 15/09/2023 |
 | Ayudantía 6 | Búsqueda en juegos y MinMax	                 | 22/09/2023 |
-| Ayudantía 7 | Presentación T2 y tips	                     | 29/09/2023 |
+| Ayudantía 7 | Presentación Tarea 3 y tips	                 | 29/09/2023 |
 | Ayudantía 8 | Intro a ML, uso de pandas, numpy y sklearn	 | 13/10/2023 |
 | Ayudantía 9 | Árboles de Decisión y Ensambles	             | 20/10/2023 |
 | Ayudantía 10 | Gradient Boosting y SVM                     | 3/11/2023 |
 | Ayudantía 11 | Aprendizaje reforzado y Q-Learning	         | 10/11/2023 |
 | Ayudantía 12 | Redes Neuronales                            | 17/11/2023 |
 | Ayudantía 13 | Redes Convolucionales y otras arquitecturas | 24/11/2023 |
-| Ayudantía 14 | Repaso T4                                   | 1/12/2023 |
+| Ayudantía 14 | Repaso Tarea 5                              | 1/12/2023 |
 
 ## Equipo
 
@@ -44,6 +44,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Jorge Baier | Profesor  | jabaier@ing.puc.cl |  |
 | Hans Löbel | Profesor  | halobel@ing.puc.cl | [@halobel](https://github.com/halobel) |
 | Daniel Florea | Ayudante coordinador  | dflorea@uc.cl | [@dfloreaa](https://github.com/dfloreaa) |
+| Trinidad Balart | Ayudante Tarea 1 | tsbalart@uc.cl | [@Tsbalart](https://github.com/Tsbalart) |
 | Benjamín Enrique González Briones | Ayudante | bgonzalezb@uc.cl | [@Benyo27](https://github.com/Benyo27)
 | Blanca María Romero Dussaillant | Ayudante | blanca.romero@uc.cl | [@blanca-romero](https://github.com/blanca-romero)
 | Bryan Kevin Acevedo Zaragoza | Ayudante | bkacevedo@uc.cl | [@Kevinnevik](https://github.com/Kevinnevik)
@@ -92,7 +93,7 @@ Las tareas buscan medir de forma integral tanto los aspectos teóricos como prá
   - Contenidos: Árboles de Decisión y SVM
   - [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2023-2/T4)
 
-- **T4 (23/11 &rarr; 7/12)**
+- **T5 (23/11 &rarr; 7/12)**
   - Contenidos: Redes Neuronales y Aprendizaje Reforzado
   - [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2023-2/T5)
 
