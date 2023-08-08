@@ -79,7 +79,7 @@ Las tareas buscan medir de forma integral tanto los aspectos teóricos como prá
 
 - **T1 (9/08 &rarr; 24/08)**
   - Contenidos: Rol de la IA en la humanidad
-  - [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2023-2/T1)
+  - [Enunciado](https://cursos.canvas.uc.cl/courses/60647/assignments/337764)
 
 - **T2 (25/08 &rarr; 8/09)**
   - Contenidos: Programación en Lógica y ASP
