@@ -79,6 +79,7 @@ Las tareas buscan medir de forma integral tanto los aspectos teóricos como prá
 
 - **T1 (9/08 &rarr; 24/08)**
   - Contenidos: Rol de la IA en la humanidad
+  - [Cuestionario inicial](https://docs.google.com/forms/d/e/1FAIpQLSf3eYPl9kowfLBfOCfKgnQNAYQVfXGrhJt0r1GcLJdtWEsfSA/viewform)
   - [Enunciado](https://cursos.canvas.uc.cl/courses/60647/assignments/337764)
 
 - **T2 (25/08 &rarr; 8/09)**
