@@ -51,7 +51,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Daniel Toribio Montupil | Ayudante | dtoribio1@uc.cl | [@Hellonston](https://github.com/Hellonston)
 | Felipe Ignacio Vidal Fuentes | Ayudante | fvidalf@uc.cl | [@fvidalf](https://github.com/fvidalf)
 | Ignacio Antonio Villanueva Domínguez | Ayudante | ignacio.villanueva@uc.cl | [@ignaciovilla](https://github.com/ignaciovilla)
-| Josefina Paz Israel Ulloa | Ayudante | Ayudante | josefina.israel@uc.cl | [@jo00](https://github.com/jo00)
+| Josefina Paz Israel Ulloa | Ayudante | josefina.israel@uc.cl | [@jo00](https://github.com/jo00)
 | Josefina Paz Reyes Cáceres | Ayudante | josefinareyes@uc.cl | [@josefinareyes](https://github.com/josefinareyes)
 | Kaina Baliany Galda | Ayudante | kaina.galdames@uc.cl | [@KainaBGR](https://github.com/KainaBGR)
 | Martin Atria Paublo | Ayudante | martin.atria@uc.cl | [@Maratripa](https://github.com/Maratripa)
