@@ -1,13 +1,13 @@
 # IIC2613 - Inteligencia Artificial 🧠🖥️
 
-## 2023-1
+## 2023-2
 
 Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página podrás encontrar la información administrativa del curso. En el repositorio podrás encontrar las diapositivas de clase, guías de ejercicios, enunciados y soluciones de ayudantías y evaluaciones.
 
 ## Tabla de contenidos
 
 - [IIC2613 - Inteligencia Artificial](#IIC2613---Inteligencia-Artificial-🧠🖥️)
-  - [2023-1](#2023-1)
+  - [2023-2](#2023-2)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Ayudantías](#ayudantías)
   - [Equipo](#equipo)
@@ -51,6 +51,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Daniel Toribio Montupil | Ayudante | dtoribio1@uc.cl | [@Hellonston](https://github.com/Hellonston)
 | Felipe Ignacio Vidal Fuentes | Ayudante | fvidalf@uc.cl | [@fvidalf](https://github.com/fvidalf)
 | Ignacio Antonio Villanueva Domínguez | Ayudante | ignacio.villanueva@uc.cl | [@ignaciovilla](https://github.com/ignaciovilla)
+| Josefina Paz Israel Ulloa | Ayudante | Ayudante | josefina.israel@uc.cl | [@jo00](https://github.com/jo00)
 | Josefina Paz Reyes Cáceres | Ayudante | josefinareyes@uc.cl | [@josefinareyes](https://github.com/josefinareyes)
 | Kaina Baliany Galda | Ayudante | kaina.galdames@uc.cl | [@KainaBGR](https://github.com/KainaBGR)
 | Martin Atria Paublo | Ayudante | martin.atria@uc.cl | [@Maratripa](https://github.com/Maratripa)
