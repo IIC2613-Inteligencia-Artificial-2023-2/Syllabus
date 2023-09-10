@@ -67,7 +67,7 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 
 | Número | Tema | Fecha | Enunciado | Solución |
 | --- | --- | --- | --- | -- |
-| Corto 1 | Conceptos básicos ASP, Negación y Modelación | 4-09-2023 |  | [Solución](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| Corto 1 | Conceptos básicos ASP, Negación y Modelación | 4-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/142690) | [Solución](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 | Corto 2 | Intro a búsqueda, A* y Heurísticas | 11-09-2023 |  |  |
 | Largo 1 | ASP y problemas de búsqueda (incluye búsqueda adversaria) | 25-09-2023 |  |  |
 | Corto 3 | Arboles de Decisión, Random Forest, Gradient Boosting y SVM | 30-10-2023 |  |  |
