@@ -27,8 +27,8 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Ayudantía 3 | Repaso Tarea 2                               | 1/09/2023 |
 | Ayudantía 4 | Intro a la búsqueda (DFS, BFS, Dijkstra)     | 8/09/2023 |
 | Ayudantía 5 | A* y Heurísticas	                           | 15/09/2023 |
-| Ayudantía 6 | Búsqueda en juegos y MinMax	                 | 22/09/2023 |
-| Ayudantía 7 | Presentación Tarea 3 y tips	                 | 29/09/2023 |
+| Ayudantía 6 | Repaso Control Largo 1 y Heurísticas         | 22/09/2023 |
+| Ayudantía 7 | Búsqueda en juegos y MinMax	                 | 29/09/2023 |
 | Ayudantía 8 | Intro a ML, uso de pandas, numpy y sklearn	 | 13/10/2023 |
 | Ayudantía 9 | Árboles de Decisión y Ensambles	             | 20/10/2023 |
 | Ayudantía 10 | Gradient Boosting y SVM                     | 3/11/2023 |
@@ -67,8 +67,8 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 
 | Número | Tema | Fecha | Enunciado | Solución |
 | --- | --- | --- | --- | -- |
-| Corto 1 | Conceptos básicos ASP, Negación y Modelación | 4-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/142690) | [Solución](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| Corto 2 | Intro a búsqueda, A* y Heurísticas | 11-09-2023 |  |  |
+| Corto 1 | Conceptos básicos ASP, Negación y Modelación | 4-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/142690) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/142690) |
+| Corto 2 | Intro a búsqueda, A* y Heurísticas | 11-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/143189) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/143189) |
 | Largo 1 | ASP y problemas de búsqueda (incluye búsqueda adversaria) | 25-09-2023 |  |  |
 | Corto 3 | Arboles de Decisión, Random Forest, Gradient Boosting y SVM | 30-10-2023 |  |  |
 | Corto 4 | Aprendizaje Reforzado y Redes Neuronales | 13-11-2023 |  |  |
@@ -83,7 +83,7 @@ Las tareas buscan medir de forma integral tanto los aspectos teóricos como prá
   - [Cuestionario inicial](https://docs.google.com/forms/d/e/1FAIpQLSf3eYPl9kowfLBfOCfKgnQNAYQVfXGrhJt0r1GcLJdtWEsfSA/viewform)
   - [Enunciado](https://cursos.canvas.uc.cl/courses/60647/assignments/337764)
 
-- **T2 (25/08 &rarr; 8/09)**
+- **T2 (26/08 &rarr; 9/09)**
   - Contenidos: Programación en Lógica y ASP
   - [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2023-2/T2)
 
