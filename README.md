@@ -27,15 +27,14 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Ayudantía 3 | Repaso Tarea 2                               | 1/09/2023 |
 | Ayudantía 4 | Intro a la búsqueda (DFS, BFS, Dijkstra)     | 8/09/2023 |
 | Ayudantía 5 | A* y Heurísticas	                           | 15/09/2023 |
-| Ayudantía 6 | Repaso Control Largo 1 y Heurísticas         | 22/09/2023 |
-| Ayudantía 7 | Búsqueda en juegos y MinMax	                 | 29/09/2023 |
-| Ayudantía 8 | Intro a ML, uso de pandas, numpy y sklearn	 | 13/10/2023 |
-| Ayudantía 9 | Árboles de Decisión y Ensambles	             | 20/10/2023 |
-| Ayudantía 10 | Gradient Boosting y SVM                     | 3/11/2023 |
-| Ayudantía 11 | Aprendizaje reforzado y Q-Learning	         | 10/11/2023 |
-| Ayudantía 12 | Redes Neuronales                            | 17/11/2023 |
-| Ayudantía 13 | Redes Convolucionales y otras arquitecturas | 24/11/2023 |
-| Ayudantía 14 | Repaso Tarea 5                              | 1/12/2023 |
+| Ayudantía 6 | Búsqueda en juegos y MinMax	                 | 29/09/2023 |
+| Ayudantía 7 | Intro a ML, uso de pandas, numpy y sklearn	 | 13/10/2023 |
+| Ayudantía 8 | Árboles de Decisión y Ensambles	             | 20/10/2023 |
+| Ayudantía 9 | Gradient Boosting y SVM                      | 3/11/2023 |
+| Ayudantía 10 | Aprendizaje reforzado y Q-Learning	         | 10/11/2023 |
+| Ayudantía 11 | Redes Neuronales                            | 17/11/2023 |
+| Ayudantía 12 | Redes Convolucionales y otras arquitecturas | 24/11/2023 |
+| Ayudantía 13 | Repaso Tarea 5                              | 1/12/2023 |
 
 ## Equipo
 
@@ -69,8 +68,8 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 | --- | --- | --- | --- | -- |
 | Corto 1 | Conceptos básicos ASP, Negación y Modelación | 4-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/142690) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/142690) |
 | Corto 2 | Intro a búsqueda, A* y Heurísticas | 11-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/143189) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/143189) |
-| Largo 1 | ASP y problemas de búsqueda (incluye búsqueda adversaria) | 25-09-2023 |  |  |
-| Corto 3 | Arboles de Decisión, Random Forest, Gradient Boosting y SVM | 30-10-2023 |  |  |
+| Largo 1 | ASP y problemas de búsqueda (incluye búsqueda adversaria) | 25-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/143948) |  |
+| Corto 3 | Arboles de Decisión, Random Forest, Gradient Boosting y SVM | 30-10-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/145365) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/145365) |
 | Corto 4 | Aprendizaje Reforzado y Redes Neuronales | 13-11-2023 |  |  |
 | Largo 2 | Aprendizaje Supervisado, Reforzado y Deep Learning | 27-11-2023 |  |  |
 
