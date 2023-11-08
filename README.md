@@ -21,20 +21,20 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 *Las fechas y temáticas de las ayudantías están sujetas a cambio a lo largo del semestre*
 | Número  | Tema | Fecha |
 | ------- | ---- | ----- |
-| Ayudantía 0 | Presentación y trabajo Tarea 1               | 11/08/2023 |
-| Ayudantía 1 | ASP y Clingo                                 | 18/08/2023 |
-| Ayudantía 2 | Negación y modelación en Clingo	             | 25/08/2023 |
-| Ayudantía 3 | Repaso Tarea 2                               | 1/09/2023 |
-| Ayudantía 4 | Intro a la búsqueda (DFS, BFS, Dijkstra)     | 8/09/2023 |
-| Ayudantía 5 | A* y Heurísticas	                           | 15/09/2023 |
-| Ayudantía 6 | Búsqueda en juegos y MinMax	                 | 29/09/2023 |
-| Ayudantía 7 | Intro a ML, uso de pandas, numpy y sklearn	 | 13/10/2023 |
-| Ayudantía 8 | Árboles de Decisión y Ensambles	             | 20/10/2023 |
-| Ayudantía 9 | Gradient Boosting y SVM                      | 3/11/2023 |
-| Ayudantía 10 | Aprendizaje reforzado y Q-Learning	         | 10/11/2023 |
-| Ayudantía 11 | Redes Neuronales                            | 17/11/2023 |
-| Ayudantía 12 | Redes Convolucionales y otras arquitecturas | 24/11/2023 |
-| Ayudantía 13 | Repaso Tarea 5                              | 1/12/2023 |
+| Ayudantía 0 | Presentación y trabajo Tarea 1                   | 11/08/2023 |
+| Ayudantía 1 | ASP y Clingo                                     | 18/08/2023 |
+| Ayudantía 2 | Negación y modelación en Clingo	                 | 25/08/2023 |
+| Ayudantía 3 | Repaso Tarea 2                                   | 01/09/2023 |
+| Ayudantía 4 | Intro a la búsqueda (DFS, BFS, Dijkstra)         | 08/09/2023 |
+| Ayudantía 5 | A* y Heurísticas	                               | 15/09/2023 |
+| Ayudantía 6 | Búsqueda en juegos y MinMax	                     | 29/09/2023 |
+| Ayudantía 7 | Intro a ML, uso de pandas, numpy y sklearn	     | 13/10/2023 |
+| Ayudantía 8 | Árboles de Decisión y Ensambles	                 | 20/10/2023 |
+| Ayudantía 9 | Gradient Boosting y SVM                          | 03/11/2023 |
+| Ayudantía 10 | SVM Parte 2: Funciones de Kernel y Exemplar SVM | 10/11/2023 |
+| Ayudantía 11 | Aprendizaje reforzado y Q-Learning              | 17/11/2023 |
+| Ayudantía 12 | Redes Neuronales                                | 24/11/2023 |
+| Ayudantía 13 | Redes Convolucionales y otras arquitecturas     | 01/12/2023 |
 
 ## Equipo
 
@@ -68,10 +68,10 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 | --- | --- | --- | --- | -- |
 | Corto 1 | Conceptos básicos ASP, Negación y Modelación | 4-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/142690) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/142690) |
 | Corto 2 | Intro a búsqueda, A* y Heurísticas | 11-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/143189) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/143189) |
-| Largo 1 | ASP y problemas de búsqueda (incluye búsqueda adversaria) | 25-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/143948) |  |
+| Largo 1 | ASP y problemas de búsqueda (incluye búsqueda adversaria) | 25-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/143948) | [Solución](https://github.com/IIC2613-Inteligencia-Artificial-2023-2/Syllabus/blob/main/Controles/Pauta%20Control%20Largo%201%20-%20IIC2613.pdf) |
 | Corto 3 | Arboles de Decisión, Random Forest, Gradient Boosting y SVM | 30-10-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/145365) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/145365) |
 | Corto 4 | Aprendizaje Reforzado y Redes Neuronales | 13-11-2023 |  |  |
-| Largo 2 | Aprendizaje Supervisado, Reforzado y Deep Learning | 27-11-2023 |  |  |
+| Largo 2 | Aprendizaje Supervisado, Reforzado y Deep Learning | 27-11-2023 |  | [Solución](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 ### Tareas
 
