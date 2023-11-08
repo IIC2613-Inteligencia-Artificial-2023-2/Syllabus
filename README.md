@@ -69,8 +69,8 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 | Corto 1 | Conceptos básicos ASP, Negación y Modelación | 4-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/142690) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/142690) |
 | Corto 2 | Intro a búsqueda, A* y Heurísticas | 11-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/143189) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/143189) |
 | Largo 1 | ASP y problemas de búsqueda (incluye búsqueda adversaria) | 25-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/143948) | [Solución](https://github.com/IIC2613-Inteligencia-Artificial-2023-2/Syllabus/blob/main/Controles/Pauta%20Control%20Largo%201%20-%20IIC2613.pdf) |
-| Corto 3 | Arboles de Decisión, Random Forest, Gradient Boosting y SVM | 30-10-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/145365) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/145365) |
-| Corto 4 | Aprendizaje Reforzado y Redes Neuronales | 13-11-2023 |  |  |
+| Corto 3 | Arboles de Decisión, Random Forest | 30-10-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/145365) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/145365) |
+| Corto 4 | Gradient Boosting y SVM | 13-11-2023 |  |  |
 | Largo 2 | Aprendizaje Supervisado, Reforzado y Deep Learning | 27-11-2023 |  | [Solución](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 ### Tareas
