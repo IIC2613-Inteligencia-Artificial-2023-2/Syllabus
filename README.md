@@ -70,7 +70,7 @@ Los controles son evaluaciones de aproximadamente sobre los contenidos vistos en
 | Corto 2 | Intro a búsqueda, A* y Heurísticas | 11-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/143189) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/143189) |
 | Largo 1 | ASP y problemas de búsqueda (incluye búsqueda adversaria) | 25-09-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/143948) | [Solución](https://github.com/IIC2613-Inteligencia-Artificial-2023-2/Syllabus/blob/main/Controles/Pauta%20Control%20Largo%201%20-%20IIC2613.pdf) |
 | Corto 3 | Arboles de Decisión, Random Forest | 30-10-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/145365) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/145365) |
-| Corto 4 | Gradient Boosting y SVM | 13-11-2023 |  |  |
+| Corto 4 | Gradient Boosting y SVM | 13-11-2023 | [Canvas](https://cursos.canvas.uc.cl/courses/60647/quizzes/145897) | [Solución](https://cursos.canvas.uc.cl/courses/60647/quizzes/145897) |
 | Largo 2 | Aprendizaje Supervisado, Reforzado y Deep Learning | 27-11-2023 |  | [Solución](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
 
 ### Tareas
@@ -90,7 +90,7 @@ Las tareas buscan medir de forma integral tanto los aspectos teóricos como prá
   - Contenidos: Problemas de Búsqueda
   - [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2023-2/T3)
 
-- **T4 (31/10 &rarr; 14/11)**
+- **T4 (31/10 &rarr; 16/11)**
   - Contenidos: Árboles de Decisión y SVM
   - [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2023-2/T4)
 
